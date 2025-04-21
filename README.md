@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LingmaFuture
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python
-- ⚡ Fun fact: I want, I do, then I changed the world!
+- ⚡ I want, I do, then I changed the world!
