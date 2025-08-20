@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LingmaFuture
+- 👋 Hi, I’m Rockway
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning python
+- 🌱 I’m good at python
 - ⚡ I want, I do, then I changed the world!
