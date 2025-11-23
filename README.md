@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Rockway
-- 👀 I’m interested in AI
-- 🌱 I’m good at python
-- ⚡ I want, I do, then I changed the world!
-
 for freelance work? do reach, [email](mailto:rockwaychen@gmail.com) :)
 
 📊 **this week i spent my time on:**
@@ -18,14 +13,6 @@ Markdown     7 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆 0 Karma Points
-🌸 Completed 0 tasks today
-✅ Completed 0 tasks so far
-⏳ Longest streak is 0 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
