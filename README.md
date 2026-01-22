@@ -23,6 +23,11 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LingmaFuture&theme=dracula&margin-w=10&margin-h=10)
 
 
+## 🏆 GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LingmaFuture)
+
+
 ## 🔧 Tech Stack
 
 <p>
