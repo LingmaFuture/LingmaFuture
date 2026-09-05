@@ -37,18 +37,6 @@ re-identification across five modalities.
 
 > Build systems that can be tested, understood, and improved.
 
-<details>
-<summary>📊 GitHub Activity</summary>
-
-<br />
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=LingmaFuture&show_icons=true&theme=gotham&hide_border=true"
-  alt="LingmaFuture's GitHub statistics"
-/>
-
-</details>
-
 
 ## 📊 GitHub Metrics
 
@@ -65,7 +53,7 @@ re-identification across five modalities.
     alt="Most used languages"
   />
 </p>
----
+
 
 ## 🧠 Technical Focus
 
@@ -78,7 +66,6 @@ re-identification across five modalities.
 - Modular design · Config-driven architecture  
 - Containerized & reproducible workflows  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -89,7 +76,6 @@ re-identification across five modalities.
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
 </p>
 
----
 
 ## 🌐 Signals
 
@@ -98,7 +84,6 @@ re-identification across five modalities.
   <img src="https://img.shields.io/github/stars/LingmaFuture?style=social" />
 </p>
 
----
 
 <p align="center">
   <sub>
