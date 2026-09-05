@@ -1,3 +1,54 @@
+# Hi, I'm LingmaFuture 👋
+
+**AI Engineering · Multimodal Learning · Agent Workflows**
+
+I build AI applications and multimodal pipelines, with a focus on
+reproducible experiments, reliable workflows, and maintainable systems.
+
+专注 AI 应用与多模态系统，关注从实验验证到工程实现的完整过程。
+
+## 🔭 Focus
+
+- **Multimodal Learning** — Cross-modal representation learning,
+  alignment, and retrieval.
+- **LLM Applications** — Agent workflows, RAG, tool calling,
+  and evaluation.
+- **AI Engineering** — Modular Python systems, configuration-driven
+  workflows, and reproducible environments.
+
+## 🛠 Featured Project
+
+### [PRCV2025REID](https://github.com/LingmaFuture/PRCV2025REID)
+
+A training and evaluation framework for multimodal person
+re-identification across five modalities.
+
+- Combines CLIP with modality-aware LoRA routing and semantic alignment.
+- Supports multimodal sampling, training, evaluation, and submission generation.
+- Emphasizes training stability and consistency between training and evaluation.
+
+## 🧭 How I Work
+
+- Translate ambiguous requirements into clear tasks and system designs.
+- Use evaluation and feedback to guide iteration.
+- Prioritize reproducibility, reliability, and maintainability.
+
+**Core tools:** Python · Linux · Git
+
+> Build systems that can be tested, understood, and improved.
+
+<details>
+<summary>📊 GitHub Activity</summary>
+
+<br />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=LingmaFuture&show_icons=true&theme=gotham&hide_border=true"
+  alt="LingmaFuture's GitHub statistics"
+/>
+
+</details>
+
 ## 🧭 What I Do
 
 - **AI Engineering**: Agent systems, multimodal pipelines, applied LLM workflows  
