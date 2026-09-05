@@ -49,26 +49,22 @@ re-identification across five modalities.
 
 </details>
 
-## 🧭 What I Do
-
-- **AI Engineering**: Agent systems, multimodal pipelines, applied LLM workflows  
-- **System Building**: From prototype → production, focus on scalability & reliability  
-- **Problem Framing**: Turning vague demand into executable architectures  
-
-> I care less about *models*, more about **systems that survive reality**.
-
----
 
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LingmaFuture&show_icons=true&theme=gotham&hide_border=true" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=LingmaFuture&show_icons=true&theme=gotham&hide_border=true"
+    alt="LingmaFuture's GitHub statistics"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingmaFuture&layout=compact&theme=gotham&hide_border=true" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=LingmaFuture&layout=compact&theme=gotham&hide_border=true"
+    alt="Most used languages"
+  />
 </p>
-
 ---
 
 ## 🧠 Technical Focus
